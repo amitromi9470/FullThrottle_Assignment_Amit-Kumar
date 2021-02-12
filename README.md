@@ -1,8 +1,10 @@
-# Steps to run the application
+# npm install
 
-npm install in root folder
-cd JsonServer , npm install
-npm run dev 
+installs all the node modules for root directory
+
+# cd JsonServer -> npm install
+
+installs all the node modules for Json Server
 
 # npm run dev
 
