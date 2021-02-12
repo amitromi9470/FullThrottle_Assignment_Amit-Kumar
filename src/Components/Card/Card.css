@@ -1,0 +1,16 @@
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid gray;
+  background-color: cyan;
+  height: 275px;
+  width: 200px;
+  margin-left: 10px;
+  border-radius: 5px;
+  overflow: hidden;
+  color: black;
+  cursor: pointer;
+}
+
+
